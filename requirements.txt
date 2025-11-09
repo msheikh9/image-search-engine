@@ -1,0 +1,8 @@
+streamlit
+pillow
+numpy
+scikit-learn
+sentence-transformers>=2.6.0
+transformers
+torch
+tqdm
