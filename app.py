@@ -1,5 +1,4 @@
-#streamlit run app.py
-#http://localhost:8501
+#run streamlit run app.py in terminal to start the app
 
 import io
 from pathlib import Path
