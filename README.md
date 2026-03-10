@@ -12,7 +12,6 @@ It uses the **CLIP (ViT-B/32)** model from OpenAI through the Sentence-Transform
 - Use pretrained models (CLIP) to perform **semantic image retrieval**.
 - Demonstrate real-time image search through a **Streamlit web app**.
 
-
 ##  How It Works
 1. **Dataset Preparation:**  
    - The dataset (101 Object Categories from Kaggle) is stored under `data/images/`.

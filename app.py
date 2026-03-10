@@ -1,4 +1,4 @@
-#run streamlit run app.py in terminal to start the app
+#streamlit run app.py in terminal to start the app
 
 import io
 from pathlib import Path
